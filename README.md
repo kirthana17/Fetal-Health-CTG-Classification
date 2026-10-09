@@ -520,6 +520,14 @@ The required Python dependencies are specified in `requirements.txt`.
 
 ---
 
+## 🚀 Live Demo
+
+**Try the deployed application:** [Fetal Health Classification — Streamlit App](https://fetal-health-ctg-classification.streamlit.app/)
+
+Enter 21 Cardiotocogram (CTG) feature values to obtain a model prediction for one of three classes: **Normal, Suspect, or Pathological**.
+
+> ⚠️ **Academic demonstration only.** This application is not intended for clinical diagnosis.
+
 ## Conclusion
 
 This project demonstrates an end-to-end machine learning workflow for multiclass fetal-health classification using Cardiotocography data.
